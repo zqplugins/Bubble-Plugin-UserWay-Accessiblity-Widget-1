@@ -1,0 +1,14 @@
+{
+    "caption": "Modify Contrast option",
+    "fields": {
+        "AAS": {
+            "caption": "Contrast level",
+            "default_val": 0,
+            "doc": "Contrast level option from 1 to 4. Set 0 to disable.",
+            "editor": "DynamicValue",
+            "name": "contrast_level",
+            "rank": 0,
+            "value": "number"
+        }
+    }
+}

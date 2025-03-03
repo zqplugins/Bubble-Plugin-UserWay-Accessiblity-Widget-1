@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "internationalization",
+        "2": "technical",
+        "3": "compliance",
+        "4": "web scraping"
+    },
+    "data_tracked": false,
+    "demo_page": "",
+    "description": "https://userway.org/ provide help to make your website more accessible. This plugin is to help you to integrate it to your app.\n\nPut the element and configure options. \n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/userway-accessiblity-widget-plugin-for-bubble-1728515459333x323237584439292300\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1566597057015x809893058941338200/web-accessibility-1-561903.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "UserWay Accessiblity Widget",
+    "plugin_instructions": "Create your userway account.\nGo in plugin tab and enter your Account ID\nPut element on the page and configure. \n\nYou can create your own menu with all the element action.\n\nNOTE: LIMIT ON TEXT SIZE INCREASE. Because how bubble work with positionning elements, the Increase text size doesn'T work perfectly. I suggest you to create your own menu instead and use Font size and conditionnal.\n\nYou can have more option with a userway paid account."
+}

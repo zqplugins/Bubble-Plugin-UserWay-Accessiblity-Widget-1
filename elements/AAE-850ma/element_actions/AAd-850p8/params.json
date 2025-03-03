@@ -1,0 +1,14 @@
+{
+    "caption": "Modify Text Size",
+    "fields": {
+        "AAe": {
+            "caption": "Size",
+            "default_val": 0,
+            "doc": "Big text option from 1 to 4. Set 0 to disable.",
+            "editor": "DynamicValue",
+            "name": "size",
+            "rank": 0,
+            "value": "number"
+        }
+    }
+}

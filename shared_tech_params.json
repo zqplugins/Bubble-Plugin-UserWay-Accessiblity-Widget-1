@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "use_jquery": true
+    },
+    "shared_keys": {
+        "AAs": {
+            "caption": "Account ID",
+            "type": "client_safe"
+        }
+    }
+}

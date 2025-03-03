@@ -1,0 +1,72 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "UserWay",
+    "fields": {
+        "AAT": {
+            "caption": "Use Account Settings",
+            "default_val": false,
+            "doc": "If you choose to apply your UserWay settings, setting below will not be applied.",
+            "editor": "Checkbox",
+            "name": "use_account_settings",
+            "options": "",
+            "rank": 0
+        },
+        "AAU": {
+            "caption": "Position",
+            "default_val": "1",
+            "doc": "Starting from top right (1) and clockwise. (2 is middle-right...)",
+            "editor": "Dropdown",
+            "name": "position",
+            "options": "1,2,3,4,5,6,7,8",
+            "rank": 1
+        },
+        "AAV": {
+            "caption": "Icon type",
+            "default_val": "1",
+            "doc": "1=person, 2=chair, 3=eye, 4=text",
+            "editor": "Dropdown",
+            "name": "icon_type",
+            "options": "1,2,3,4",
+            "rank": 2
+        },
+        "AAW": {
+            "caption": "Icon size",
+            "default_val": "small",
+            "doc": "",
+            "editor": "Dropdown",
+            "name": "icon_size",
+            "options": "small,large",
+            "rank": 3
+        },
+        "AAX": {
+            "caption": "Main color",
+            "default_val": "rgba(5, 62, 103, 1)",
+            "editor": "Color",
+            "name": "icon_color",
+            "rank": 4
+        },
+        "AAY": {
+            "caption": "Mobile",
+            "default_val": true,
+            "doc": "Support on mobile devices",
+            "editor": "Checkbox",
+            "name": "mobile",
+            "rank": 5
+        },
+        "AAa": {
+            "caption": "Language",
+            "default_val": "en",
+            "doc": "Two letters lang code (e.g., en, fr, de, es, he, nl, etc.)",
+            "editor": "DynamicValue",
+            "name": "language",
+            "rank": 6,
+            "value": "text"
+        }
+    },
+    "icon": "ion-ios-body"
+}
